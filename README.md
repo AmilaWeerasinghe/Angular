@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ 1.Angular a framework for building client applications in HTML,CSS and JavaSccript/TypeScript
+ 2.Gives application clean structure
+ 3.Make our applications more testable
+ 4.Daata are stores in servers,HTTP servers and API's(Application programming interfacce) are used to make data available for clients
+ 5.HTTP servers /API's are endpoints that are accessible via the HTTP Protocols
