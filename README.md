@@ -41,3 +41,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 8.Modules- Container for related modules.
     Every application has at least one module callled app-module.This module is divided as the app is developed further
     
+9.Steps to create component
+   i.Create a component
+   ii.register it in a module
+   iii.add an element in HTML markup
