@@ -51,3 +51,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 13.Data binding- Binding field to a view. When the field is update framework automatically updates the view too.
 14.interpolation usinf functions
 15.directives to iterate through an array
+16.There are problems implementing services inside the class of component.Only presentation logic should be in component. Services are used to implement other logics and we can re use that logic in various other places.
+17.dependancy-injection..Injecting/providing dependancy of class into its constructor.
+Fill providers in module.ts with services that are dependent 
