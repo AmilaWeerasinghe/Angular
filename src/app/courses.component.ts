@@ -1,3 +1,4 @@
+import { CoursesService } from './courses.service';
 import {Component} from '@angular/core'; //decorator in angular to make the class component
 
 @Component({
@@ -14,10 +15,11 @@ import {Component} from '@angular/core'; //decorator in angular to make the clas
 })
 export class CoursesComponent {
     title= 'List of courses';
-    courses=["course1","course2","course3"];
-
-    getTitle() {
-        return this.title;
+    courses;
+        //dependancy injection
+    constructor(service: CoursesService) {
+        
+        this.courses=service.getCourses();
     }
 
 }
