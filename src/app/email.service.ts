@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-//injectable class is showing
+//injectable class is able to inject the dependancies into the class
 @Injectable({
   providedIn: 'root'
 })
