@@ -34,3 +34,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
  3.Make our applications more testable
  4.Daata are stores in servers,HTTP servers and API's(Application programming interfacce) are used to make data available for clients
  5.HTTP servers /API's are endpoints that are accessible via the HTTP Protocols
+ 6.Typescript bascis are mastered in another repo
+ 7.Components-Buliding blocks of angular
+    Components encapsulated data ,html,logic
+    Every application have app component, while other components are sub catogeries of this
+8.Modules- Container for related modules.
+    Every application has at least one module callled app-module.This module is divided as the app is developed further
+    
